@@ -178,7 +178,7 @@ class SuccessfulLoginTest extends DuskTestCase
     });
     }
 
-   /* public function testSuccessfulRegister()
+    public function testSuccessfulRegister()
     {
 
         $this->browse(function (Browser $browser) {
@@ -221,7 +221,7 @@ class SuccessfulLoginTest extends DuskTestCase
 
 
         });
-    }*/
+    }
 
    /* public function testToCreateAProfile()
     {
