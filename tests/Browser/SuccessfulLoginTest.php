@@ -147,7 +147,7 @@ class SuccessfulLoginTest extends DuskTestCase
     }
 
 
- /*   public function testToDeleteAQuestion()
+    public function testToDeleteAQuestion()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/questions/1')
@@ -163,7 +163,7 @@ class SuccessfulLoginTest extends DuskTestCase
     }
 
 
-    public function testSuccessfulLogout()
+  /*  public function testSuccessfulLogout()
     {
 
         $this->browse(function (Browser $browser) {
