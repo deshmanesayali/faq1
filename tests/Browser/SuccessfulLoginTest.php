@@ -81,7 +81,7 @@ class SuccessfulLoginTest extends DuskTestCase
         });
     }
 
-/*
+
     public function testToAnswerAQuestion()
     {
         $this->browse(function (Browser $browser) {
@@ -99,7 +99,7 @@ class SuccessfulLoginTest extends DuskTestCase
         });
     }
 
-    public function testToViewAnswer()
+  /*  public function testToViewAnswer()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/questions/1')
