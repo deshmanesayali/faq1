@@ -39,7 +39,7 @@ class SuccessfulLoginTest extends DuskTestCase
 
     }
 
-   /* public function  testToAddAQuestion()
+    public function  testToAddAQuestion()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/home')
@@ -57,7 +57,7 @@ class SuccessfulLoginTest extends DuskTestCase
     }
 
 
-    public function  testToCheckViewButton()
+   /* public function  testToCheckViewButton()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/questions/1')
