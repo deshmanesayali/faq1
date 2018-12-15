@@ -131,7 +131,7 @@ class SuccessfulLoginTest extends DuskTestCase
     }
 
 
-  /*  public function testToDeleteAnAnswer()
+    public function testToDeleteAnAnswer()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/questions/1/answers/1')
@@ -147,7 +147,7 @@ class SuccessfulLoginTest extends DuskTestCase
     }
 
 
-    public function testToDeleteAQuestion()
+ /*   public function testToDeleteAQuestion()
     {
         $this->browse(function (Browser $browser) {
             $browser->visit('/questions/1')
