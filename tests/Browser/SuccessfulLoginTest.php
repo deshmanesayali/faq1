@@ -223,21 +223,7 @@ class SuccessfulLoginTest extends DuskTestCase
         });
     }
 
-   /* public function testToCreateAProfile()
-    {
-
-        $this->browse(function (Browser $browser) {
-            $browser->visit('/home')
-
-                ->assertSee('My Account')
-                ->click('#navbarDropdown')
-                ->clickLink('Create Profile')
-                ->assertPathIs('/user/2/profile')
-                ->assertSee('My Profile');
-
-        });
-    }*/
-
+   
 }
 
 
